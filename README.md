@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amanoj85
+- 👀 I’m interested in UI, UX & Web Development
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on frontend developer
+- 📫 Reach me on gmail: amanoj.akurathi@gmail.com
